@@ -1,4 +1,4 @@
-package com.findev.okta.pkce;
+package com.findevglobal.okta.pkce;
 
 import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;

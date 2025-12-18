@@ -1,4 +1,4 @@
-package com.findev.okta.pkce;
+package com.findevglobal.okta.pkce;
 
 import okhttp3.OkHttpClient;
 
